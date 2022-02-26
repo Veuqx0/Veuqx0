@@ -4,7 +4,7 @@
 
 <h2 align="center">My Coding languages.</h2>
   <a href="">
-   <img alt="C#" src="https://img.shields.io/badge/Veuqx-Dev-brightgreen"></a> <img alt="C++" src="https://img.shields.io/badge/Veuqx-Dev-brightblue"></a> 
+   <img alt="C#" src="https://img.shields.io/badge/C#-brightgreen"></a> <img alt="C++" src="https://img.shields.io/badge/Veuqx-Dev-brightblue"></a> 
 </p>
 
 <p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
