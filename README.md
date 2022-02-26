@@ -4,7 +4,7 @@
 
 <h2 align="center">My Coding languages.</h2>
 <p align="center">
-<p align="center">C# l Java l C++ l Python l ImGui l Lua l Sql
+<p align="center">C# l Java l C++ l Python l ImGui l Lua
 </p>
 
 <p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
