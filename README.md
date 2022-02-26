@@ -9,3 +9,6 @@
 </p>
 
 <p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
+  
+  
+  (https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
