@@ -1,3 +1,7 @@
+<h2 align="center">
+  
+![bannercc](https://media.discordapp.net/attachments/844078689023950868/946926680361009232/9b4aae3e1cc0aa46e093a80f7d476d87_1.png)
+
 <h2 align="center">My Coding languages.</h2>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
