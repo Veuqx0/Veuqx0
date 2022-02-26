@@ -7,3 +7,5 @@
   <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
 </p>
+
+<p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
