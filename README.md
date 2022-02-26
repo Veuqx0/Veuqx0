@@ -4,11 +4,7 @@
 
 <h2 align="center">My Coding languages.</h2>
 <p align="center">
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>    
-  <img alt="C#" src=""></a>
-  <img alt="ImGui" src=""></a>
-  <img alt="Python" src=""></a>
+<p align="center">C# l Java l C++ l Python l ImGui l Lua l 
 </p>
 
 <p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
