@@ -11,9 +11,6 @@
 
 <p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
   
-  <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  
-  
 <p align="center">
   <a href="">
    <img alt="Github" src="https://img.shields.io/badge/Veuqx-Dev-brightgreen"></a> 
