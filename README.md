@@ -1,9 +1,7 @@
 <h2 align="center">
 
 ![bannercc](https://discord.c99.nl/widget/theme-3/843155169314734100.png)
-  
-![Coding](https://github-readme-stats.vercel.app/api/top-langs/?username=Veuqx0&theme=tokyonight)
-
+ 
 <h2 align="center">My Coding languages.</h2>
 <p align="center">C# l Java l C++ l Python l ImGui l Lua</p>
 </p>
