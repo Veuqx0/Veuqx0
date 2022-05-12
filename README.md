@@ -4,7 +4,11 @@
 <p align="center">
 <img src="https://img.shields.io/github/followers/Veuqx0?style=social" align/>
 </p>
- 
+ </p>
+<p align="center">
+<img src=" https://img.shields.io/amo/stars/st?style=for-the-badge" align/>
+</p>
+
 ![bannercc](https://discord.c99.nl/widget/theme-3/843155169314734100.png)
 
 <h2 align="center">My Coding languages.</h2>
