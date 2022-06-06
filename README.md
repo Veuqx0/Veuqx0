@@ -11,7 +11,7 @@
 <p align="center">C# l C++ l Python l Lua</p>
 </p>
 
-<p align="center">Discord Server: https://discord.gg/VTmMUHaeAJ
+<p align="center">Discord Server: https://discord.gg/veuqx
   
   
 
