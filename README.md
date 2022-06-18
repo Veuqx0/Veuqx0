@@ -2,6 +2,10 @@
 
 <h2 align="center">My Coding languages.</h2>
 <p align="center">C# l C++ l Python l Lua</p>
+<p align="center">
+  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
+  <img alt="Dart" src="https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=dart&logoColor=097CDB"></a>    
+</p>
 </p>
 
 <h2 align="center">Github Profile</h2>
