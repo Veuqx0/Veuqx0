@@ -18,11 +18,10 @@
 </p><br>
 
 </pre><br>
-
-<p align="center">Discord Server: https://discord.gg/veuqx
  
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
+ <p align="center">Discord Server: https://discord.gg/veuqx
     <a href="https://discord.com/users/843155169314734100">
         <img title="discord" alt="discord" src="ttps://discord.c99.nl/widget/theme-3/843155169314734100.png"/>
     </a>
