@@ -3,7 +3,6 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
 ![bannercc](https://discord.c99.nl/widget/theme-3/843155169314734100.png)
-     </a>
 </p>
 
 <h2 align="center">My Coding languages.</h2>
