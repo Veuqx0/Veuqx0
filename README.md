@@ -12,12 +12,6 @@
 </p><br>
 <h2 align="center">
  </p>
-<p align="center">
-<img src="https://img.shields.io/github/followers/Veuqx0?style=social" align/>
-</p>
-
-</pre><br>
- 
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/843155169314734100">
