@@ -15,7 +15,7 @@
 </pre><br>
 
 <h2 align="center">Discord Profile</h2>
-![bannercc](https://discord.c99.nl/widget/theme-3/843155169314734100.png)
+![banner](https://discord.c99.nl/widget/theme-3/843155169314734100.png)
 
 <p align="center">Discord Server: https://discord.gg/veuqx
   
