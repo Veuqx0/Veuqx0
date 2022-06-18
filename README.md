@@ -18,6 +18,14 @@
 ![banner](https://discord.c99.nl/widget/theme-3/843155169314734100.png)
 
 <p align="center">Discord Server: https://discord.gg/veuqx
+ 
+ <h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.com/users/843155169314734100">
+        <img title="discord" alt="discord" src="https://discord.c99.nl/widget/theme-1/943374631644045363.png"/>
+    </a>
+</p>
+
   
   
 
