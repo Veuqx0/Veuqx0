@@ -1,4 +1,4 @@
-<h2 align="center">Veuqx Profile</h2>
+<h2 align="center">VEUQX</h2>
 
 <h2 align="center">My Coding languages.</h2>
 <p align="center">C# l C++ l Python l Lua</p>
